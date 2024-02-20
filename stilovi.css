@@ -1,0 +1,51 @@
+.slika1{
+	background-image: url(school-photo.jpeg);
+	background-size: 50% 100%;
+	height: 300px
+}
+.header{
+	background-color: darkgreen;
+	color:white;
+	padding: 10px;
+	text-align: center;	
+}
+.meni{
+	height: 500px;
+	background-color: lightgreen;
+}
+.frejm{
+	height:500px;
+	
+}
+a:visited,a:link{
+	color:white;
+	text-decoration:none;	
+}
+a:hover{
+	color: black;
+}
+.naslov{
+	text-align: center;
+	font-size:40px;
+	
+}
+
+.s1{
+	background-color:black;
+	height:500px;
+}
+.s2{
+	background-color:red;
+	height:500px;
+}
+.footer{
+	background-color: darkgreen;
+	color:gray;
+	padding: 10px;
+	text-align: center;
+	font-style: italic;
+	
+}
+.razmak{
+	height: 40px;
+}
